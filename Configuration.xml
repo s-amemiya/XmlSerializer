@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <Fruits>
+    <Fruit>
+      <Id>0</Id>
+      <Name>Apple</Name>
+    </Fruit>
+    <Fruit>
+      <Id>1</Id>
+      <Name>Orange</Name>
+    </Fruit>
+    <Fruit>
+      <Id>2</Id>
+      <Name>Banana</Name>
+    </Fruit>
+  </Fruits>
+</Configuration>
